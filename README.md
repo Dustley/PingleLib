@@ -1,5 +1,5 @@
+![Logo](PingleLogo.png)
 # Pingle
-
 `Pingle` is a networking library for Figura.
 
 It acts as a wraper for pings and handles the annoying parts for you! key features include:  
